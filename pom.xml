@@ -44,12 +44,12 @@
         <distributionManagement>
                  <snapshotRepository>
                     <id>nexusRepo</id>
-                    <url>http://44.210.130.249:8081/repository/maven-snapshots/</url>
+                    <url>http://18.208.184.201:8081/repository/maven-snapshots/</url>
                  </snapshotRepository>
 
                 <repository>
                     <id>nexusRepo</id>
-                    <url>http://44.210.130.249:8081/repository/maven-releases/</url>
+                    <url>http://18.208.184.201:8081/repository/maven-releases/</url>
                 </repository>
         </distributionManagement>
 
